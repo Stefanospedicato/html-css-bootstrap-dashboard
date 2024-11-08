@@ -10,3 +10,12 @@ Riproduzione di una dashboard usando esclusivamente Bootstrap
 - Sono passato alla parte bonus e ho deciso di utilizzare gli accordion in questo caso.
 - Nel primo caso ho creato un accordion nell'accordion, perchè mi è sembrato più immediato. Ho disattivato la tendina e utilizzato i check per i quadratini delle opzioni.
 - Nel secondo accordion ho semplicemente riempito gli spazi già esistenti e sistemato le varie misure.
+
+
+## Svolgimento Form
+- Ho innanzitutto copiato le navbar dell'index originario nel nuovo file.
+- ho cercato su bootstrap i tag input che mi servivano per la riuscita del lavoro.
+- Ho creato subito un container con dentro una row e molteplici col.
+- Ho dato a ciascuna col una grandezza in base allo screen mobile e successivamente mi sono occupato del responsive in large.
+- Ho dato agli input "speciali" le caratteristiche che richiedevano sempre tramite una ricerca sul portale di Bootstrap.
+- Ho in seguito rifinito con i vari margini l'ordine delle sezioni.
